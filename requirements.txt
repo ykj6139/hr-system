@@ -1,3 +1,2 @@
-plaintext
 pandas
 openpyxl
